@@ -4,6 +4,7 @@ public class CreateSampleTest {
 	
 	public void creteTest() {
 		System.out.println("create test sucess");
+		System.out.println("create test sucess");
 
 	   
 	   
