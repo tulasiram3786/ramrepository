@@ -11,7 +11,7 @@ public class CreateSampleTest {
 	   
 	   
 	   
-	   System.out.println("create test2 sucess");
+	 
 
 	   
 	   
